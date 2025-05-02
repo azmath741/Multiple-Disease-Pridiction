@@ -1,1 +1,1 @@
-# Multiple-Disease-Pridiction
+# Machine Learning Project
